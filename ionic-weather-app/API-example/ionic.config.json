@@ -1,7 +1,0 @@
-{
-  "name": "API-example",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
